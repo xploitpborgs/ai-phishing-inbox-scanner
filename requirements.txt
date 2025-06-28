@@ -1,6 +1,5 @@
-openai
 tldextract
-python-dotenv
-requests
 colorama
-
+transformers==4.41.1
+requests==2.31.0
+tldextract==5.1.2
