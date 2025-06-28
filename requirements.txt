@@ -1,1 +1,5 @@
+openai
+tldextract
+python-dotenv
+requests
 
