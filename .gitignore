@@ -1,4 +1,22 @@
-.env
+# Ignore Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Ignore environment files
+.env
+.venv
+ENV/
+venv/
+
+# Ignore output and logs
 output/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore API keys if stored separately
+apikey.txt
+openai_key.txt
