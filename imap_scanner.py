@@ -10,7 +10,7 @@ import requests
 import getpass
 
 # === Hardcoded API Key ===
-openai.api_key = "sk-REPLACE-WITH-YOUR-KEY"  # Replace during testing
+openai.api_key = "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"  # Replace during testing
 
 # === Prompt User Email Login ===
 print("🔐 Email Scanner Setup")
