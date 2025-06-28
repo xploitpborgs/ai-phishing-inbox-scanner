@@ -53,6 +53,7 @@ Analyze the latest 5 unread emails
 
 Output results in /output/email_scan_YYYYMMDD_HHMMSS.txt
 
+---
 
 ## 🧠 How AI Analysis Works
 Each email body is sent to ChatGPT with this prompt:
@@ -61,6 +62,7 @@ Each email body is sent to ChatGPT with this prompt:
 
 ChatGPT’s answer is then added as a final verdict to your scan report.
 
+---
 
 ## 📁 Output Structure
 All scanned results are saved automatically in the output/ folder.
@@ -80,11 +82,17 @@ Brand impersonation warnings
 This tool is intended for educational and awareness purposes only.
 AI predictions are not always 100% accurate — always validate manually.
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
 
+---
+
 ## ❤️ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+---
 
 ✨ Author
 Built by @xploitpborgs
